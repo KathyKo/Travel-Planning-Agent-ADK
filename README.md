@@ -1,20 +1,20 @@
 # Intelligent Travel Planning AI Agent (Google ADK Version)
 
-This project is an advanced AI agent built to fulfill the **"Intelligent Travel Planning AI Agent"** assessment. It provides a conversational interface for planning personalized trips to any city, deployed as a robust API and web UI on **Google Cloud Run**.
+This project is an Intelligent Travel Planning AI Agent. It provides a conversational interface for planning personalized trips to any city in the world, deployed as a robust API and web UI on Google Cloud Run.
 
-This implementation uses the **Google Agent Development Kit (ADK)**, using components like `LlmAgent` and `InMemoryRunner` to create a clean, maintainable, and framework-driven agent.
+This implementation utilizes **Google ADK**, using components like `LlmAgent` and `InMemoryRunner` to create a clean, maintainable, and framework-driven agent.
 
 ---
 
-## 🚀 Live Demo & Testing
+## 🚀 Demo & Testing
 
 The agent is fully deployed and operational. You can interact with it in two ways:
 
 - **Chat UI:**  
-  `https://travel-agent-adk-349302450067.asia-east1.run.app`
+  https://travel-agent-adk-349302450067.asia-east1.run.app
 
 - **API Docs:**  
-  `https://travel-agent-adk-349302450067.asia-east1.run.app/docs`
+  https://travel-agent-adk-349302450067.asia-east1.run.app/docs
 
 ### How to Test (Recommended Flow)
 
@@ -253,5 +253,6 @@ The server will start on:
 
 * UI: `http://127.0.0.1:8080`
 * API Docs: `http://127.0.0.1:8080/docs`
+
 
 
